@@ -1,7 +1,7 @@
 # Bootstrap-FsLightbox-Example
 Bootstrap and FsLightbox Example
 
-![Image](https://github.com/MtAppTech/Grid-Flex-Html-Css/blob/main/screen.png)
+![Animation](https://github.com/MtAppTech/Animation-Css-Html/blob/main/animation.gif)
 
 [📍click here to see page]( https://mtapptech.de/ders/4
 )
